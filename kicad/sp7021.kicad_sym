@@ -15,7 +15,7 @@
 			)
 		)
 		(property "Value" "SP7021"
-			(at -15.24 17.78 0)
+			(at -6.35 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1157,6 +1157,17 @@
 			)
 		)
 		(symbol "SP7021_8_1"
+			(rectangle
+				(start -10.16 11.43)
+				(end 10.16 -11.43)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
 			(pin input line
 				(at 12.7 8.89 180)
 				(length 2.54)
