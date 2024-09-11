@@ -1907,7 +1907,7 @@
 			(pin input line
 				(at 27.94 0 180)
 				(length 2.54)
-				(name "DDR4-K-VDDQ"
+				(name "DDR3-K-VDDQ"
 					(effects
 						(font
 							(size 1.27 1.27)
